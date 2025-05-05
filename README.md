@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este repositório contém um modelo de processo de negócio, elaborado como parte de uma atividade académica na área de negócios para a "Questão de Negócios Parte 1 - Tarefa de modelagem de processos". O modelo utiliza a notação BPMN (Business Process Model and Notation) para representar visualmente o fluxo de compra e devolução numa plataforma de e-commerce, baseando-se no cenário descrito abaixo.
+Este repositório contém um modelo de processo de negócio, elaborado como parte de uma atividade ponderada de negócios, "Questão de Negócios Parte 1 - Tarefa de modelagem de processos". O modelo utiliza a notação BPMN (Business Process Model and Notation) para representar visualmente o fluxo de compra e devolução numa plataforma de e-commerce, baseando-se no cenário descrito abaixo.
 
 ## Ferramenta de Modelagem
 
